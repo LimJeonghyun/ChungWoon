@@ -1,4 +1,4 @@
-# ChungWoon
+# ChungWoon(靑雲)
 ![청운로고](https://user-images.githubusercontent.com/80326391/125541999-bf6cfc6f-2607-40ad-bcfb-53b5297184f8.png)
 ## 청운은 청각장애인을 위한 운동 어플리케이션의 줄임말로, 진동을 이용한 운동 어플리케이션입니다.
 - - - 
