@@ -56,7 +56,4 @@ https://drive.google.com/file/d/15Q1hmZaJPF_mj_4r2zsLKUaUe9jmG_xc/view?usp=shari
 ---
 * 운동 영상 이미지 제작
 <img width="500" height="500" src = "https://user-images.githubusercontent.com/61608298/132504800-23e13f67-6d3c-4b41-b0fd-7d4b542b18e6.png")
-
-
-![KakaoTalk_Photo_2021-08-30-00-12-02](https://user-images.githubusercontent.com/61608298/132504803-9b9cd141-3a76-4408-8453-8b9328e89b63.gif)
-
+<img width="500" height="500" src = "https://user-images.githubusercontent.com/61608298/132504803-9b9cd141-3a76-4408-8453-8b9328e89b63.gif")
