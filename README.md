@@ -44,4 +44,18 @@
 * 활동기간 : 2021.7.14 ~ 2021.8.18
 
 <img width="1235" alt="스크린샷 2021-07-14 오전 9 42 55" src="https://user-images.githubusercontent.com/61608298/125543065-872e71e8-4438-46a5-a834-708dca0233cf.png" width="40%" height="30%">
+---
+
+## 5 . 완성 UI
+* 메인페이지
+* (구글 드라이브에 실행이 되는 화면 gif를 업로드 해두었습니다.)
+https://drive.google.com/file/d/15Q1hmZaJPF_mj_4r2zsLKUaUe9jmG_xc/view?usp=sharing
+
+* 루틴 만들기
+<img width="772" alt="스크린샷 2021-09-08 오후 8 52 33" src="https://user-images.githubusercontent.com/61608298/132504618-2237aca8-0378-4c13-8157-98bdb23bb576.png">
+
+* 운동 영상 이미지 제작
+![KakaoTalk_Photo_2021-08-30-00-11-55](https://user-images.githubusercontent.com/61608298/132504800-23e13f67-6d3c-4b41-b0fd-7d4b542b18e6.png)
+
+![KakaoTalk_Photo_2021-08-30-00-12-02](https://user-images.githubusercontent.com/61608298/132504803-9b9cd141-3a76-4408-8453-8b9328e89b63.gif)
 
