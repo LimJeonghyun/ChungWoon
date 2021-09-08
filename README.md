@@ -59,6 +59,6 @@ https://drive.google.com/file/d/15Q1hmZaJPF_mj_4r2zsLKUaUe9jmG_xc/view?usp=shari
   * 이미지
 <img width="30%" height="40%" src = "https://user-images.githubusercontent.com/61608298/132504800-23e13f67-6d3c-4b41-b0fd-7d4b542b18e6.png"> 
 
-   * 영상
+    * 영상
 <img width="30%" height="40%" src = "https://user-images.githubusercontent.com/61608298/132504803-9b9cd141-3a76-4408-8453-8b9328e89b63.gif">
 
