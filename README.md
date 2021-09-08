@@ -54,8 +54,6 @@ https://drive.google.com/file/d/15Q1hmZaJPF_mj_4r2zsLKUaUe9jmG_xc/view?usp=shari
 * 루틴 만들기
 <img width="772" alt="스크린샷 2021-09-08 오후 8 52 33" src="https://user-images.githubusercontent.com/61608298/132504618-2237aca8-0378-4c13-8157-98bdb23bb576.png">
 
----
-
 * 운동 영상 이미지 제작
 * 이미지
 <img width="30%" height="40%" src = "https://user-images.githubusercontent.com/61608298/132504800-23e13f67-6d3c-4b41-b0fd-7d4b542b18e6.png"> 
